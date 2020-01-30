@@ -1,2 +1,2 @@
-# DSBC2019
-HW 1
+NU Data Science Bootcamp 
+Homework #1
